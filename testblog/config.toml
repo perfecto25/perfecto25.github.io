@@ -1,0 +1,4 @@
+baseurl = "https://perfecto25.github.io/"
+title = "TESTBLOG"
+languageCode = "en-us"
+theme = "twentyfourteen"
